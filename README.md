@@ -1,9 +1,8 @@
 
-api Key added. 
+
 
 [Click here to see the site](https://main--cozy-frangipane-477d85.netlify.app/)
 
-new alan key added 
 
 say command : "what can this app do?" 
 
